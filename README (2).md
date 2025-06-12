@@ -107,15 +107,6 @@ By embedding these in the simulation:
 
 ---
 
-## 📁 Folder Structure
-
-```
-📂 Mastercard-Phishing-Simulation
-├── 📄 phishing-email-template.md
-├── 📝 red-flags-analysis.md
-└── 📷 screenshots/ (optional: if you add any visuals)
-```
-
 ---
 
 ## 🧠 Key Takeaways
@@ -128,8 +119,7 @@ By embedding these in the simulation:
 
 ## 📜 Certificate of Completion
 
-✅ [View My Certificate on Forage](https://www.theforage.com/virtual-experience/vcKAB5yYAgvemepGQ/mastercard/cybersecurity-t8ye/design-a-phishing-email-simulation)  
-*(Optional: attach a screenshot or PDF if available)*
+✅ [View My Certificate on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_euj7FmzuQpqT8nMDu_1738877726591_completion_certificate.pdf)
 
 ---
 
