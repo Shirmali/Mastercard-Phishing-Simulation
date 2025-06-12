@@ -22,12 +22,12 @@ This repository contains my completed tasks from the **Mastercard Cybersecurity 
 **Subject:** 🚨 Action Required: Confirm Your Benefits Enrollment Before Deadline
 
 **From:** hr-benefits@mastercard-benefits.com  
-**To:** [John Doe]  
-**Date:** [12/6/2025]
+**To:** John Doe
+**Date:** 12/6/2025
 
 ---
 
-Dear [Employee First Name],
+Dear John,
 
 We hope this message finds you well. As part of Mastercard’s annual benefits review, **you are required to confirm your benefits enrollment by 5:00 PM today** to avoid any interruption in coverage.
 
