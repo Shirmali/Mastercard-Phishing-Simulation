@@ -1,5 +1,5 @@
 
-# 🛡️ Mastercard Cybersecurity Job Simulation (Forage)
+# 🛡️ Mastercard Cybersecurity Job Simulation 
 
 This repository contains my completed tasks from the **Mastercard Cybersecurity Virtual Experience Program** hosted on [Forage](https://www.theforage.com/). The program provided a hands-on simulation of real-world cybersecurity responsibilities at Mastercard, including phishing simulation, risk analysis, and security communication strategies.
 
